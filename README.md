@@ -1,5 +1,4 @@
 # mynewai
-Here's a simple HTML code snippet you can include in your GitHub `README.md` file to redirect users to `https://minimax-ai.org`. Note that GitHub's Markdown doesn't directly execute HTML, but users can copy this code and use it in their projects: 
 
 ```html
 <!DOCTYPE html>
